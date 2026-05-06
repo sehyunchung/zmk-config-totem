@@ -77,10 +77,5 @@
             if-layers = <1 2>;
             then-layer = <3>;
         };
-
-        fff {
-            if-layers = <0>;
-            then-layer = <4>;
-        };
     };
 };
