@@ -39,7 +39,7 @@
         sym_func {
             bindings = <
            &kp ESC        &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp LC(C)         &none             &kp RC(C)      &kp RC(D)        &kp F3   &kp F4   &kp F5
-           &kp TAB        &kp LBKT              &kp RBKT               &kp ENTER         &kp BSLH          &kp RG(C)      &kp RG(V)        &kp F8   &kp F9   &kp F10
+           &kp TAB        &kp LBKT              &kp RBKT               &kp ENTER         &kp BSLH          &kp LG(C)      &kp LG(V)        &kp F8   &kp F9   &kp F10
 &kp GRAVE  &kp LESS_THAN  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp GREATER_THAN  &kp UNDERSCORE    &kp RG(ENTER)  &kp F12          &kp F13  &kp F14  &kp F15  &kp F16
                                                 &trans                 &trans            &trans            &none          &kp RIGHT_SHIFT  &none
             >;
