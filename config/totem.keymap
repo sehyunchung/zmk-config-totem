@@ -58,7 +58,7 @@
             bindings = <
         &trans  &trans     &trans        &trans     &trans          &kp LA(BACKSPACE)  &kp BACKSPACE   &kp BACKSPACE  &trans     &trans
         &trans  &kp LCTRL  &kp LEFT_GUI  &trans     &trans          &kp LEFT           &kp DOWN_ARROW  &kp UP_ARROW   &kp RIGHT  &trans
-&trans  &trans  &trans     &trans        &trans     &trans          &kp LG(C)          &kp LG(V)       &kp RET        &kp TAB    &trans  &kp ESCAPE
+&trans  &trans  &trans     &trans        &trans     &trans          &kp LG(C)          &kp LG(V)       &kp RET        &kp TAB    &kp GRAVE  &kp ESCAPE
                            &kp LEFT_ALT  &kp LCTRL  &kp LEFT_GUI    &trans             &trans          &trans
             >;
         };
