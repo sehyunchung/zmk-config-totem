@@ -56,10 +56,10 @@
 
         ff {
             bindings = <
-         &trans        &kp LG(V)  &kp LG(C)     &trans     &trans          &kp LA(BACKSPACE)  &kp BACKSPACE   &kp DELETE    &kp RA(DELETE)  &trans
-         &kp LEFT_ALT  &kp LCTRL  &kp LEFT_GUI  &trans     &trans          &kp LEFT           &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT       &kp ESCAPE
-&kp ESC  &kp GRAVE     &kp TAB    &kp ENTER     &trans     &trans          &kp LG(C)          &kp LG(V)       &kp RET       &kp TAB         &kp GRAVE   &kp RIGHT_GUI
-                                  &kp LEFT_ALT  &kp LCTRL  &kp LEFT_GUI    &trans             &trans          &trans
+         &trans     &trans     &kp RIGHT_GUI  &trans     &trans          &kp LA(BACKSPACE)  &kp BACKSPACE   &kp DELETE    &kp RA(DELETE)  &trans
+         &kp GRAVE  &kp TAB    &kp LEFT_GUI   &trans     &trans          &kp LEFT           &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT       &kp ESCAPE
+&kp ESC  &trans     &kp LG(V)  &kp LG(C)      &trans     &trans          &kp LG(C)          &kp LG(V)       &kp RET       &kp TAB         &kp GRAVE   &kp RIGHT_GUI
+                               &kp LEFT_ALT   &kp LCTRL  &kp LEFT_GUI    &trans             &trans          &trans
             >;
         };
 
